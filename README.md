@@ -1,10 +1,6 @@
 # Mini SQL Engine in C
 
-![Language: C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c) ![Status: Prototype](https://img.shields.io/badge/Status-Prototype-yellow?style=for-the-badge)
-![Platform: Linux/macOS/Windows](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=for-the-badge)
-![Docs](https://img.shields.io/badge/Docs-Available-blue?style=for-the-badge)
-![Features: SELECT/WHERE](https://img.shields.io/badge/Features-SELECT%20%7C%20WHERE-orange?style=for-the-badge)
-
+![Language: C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c)  ![Feature: SQL Parser](https://img.shields.io/badge/Feature-SQL%20Parser-orange?style=for-the-badge&logo=sqlite)  ![Compiler: GCC](https://img.shields.io/badge/Compiler-GCC-blue?style=for-the-badge&logo=gnu)
 # Mini SQL Engine in C
 
 ## 📌 Project Overview
